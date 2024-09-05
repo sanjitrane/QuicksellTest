@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://sanjitrane.github.io/Quicksell/",
+  "homepage": "https://github.com/sanjitrane/QuicksellTest",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
