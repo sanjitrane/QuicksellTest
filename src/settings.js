@@ -1,5 +1,5 @@
 
-const IMG_BASE_PATH = "/assets"
+const IMG_BASE_PATH = "./assets"
 export const settings = {
   icons:{
     add: `${IMG_BASE_PATH}/add.svg`,
